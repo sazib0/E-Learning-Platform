@@ -15,3 +15,5 @@ Community forums with real-time chat
 Progress tracking with advanced analytics
 
 ![E-Learning-Platform](Demo%20Image/eduai.png)
+
+![E-Learning-Platform](Demo%20Image/EDU.png)
