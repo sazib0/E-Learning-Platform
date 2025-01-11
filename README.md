@@ -17,3 +17,5 @@ Progress tracking with advanced analytics
 ![E-Learning-Platform](Demo%20Image/eduai.png)
 
 ![E-Learning-Platform](Demo%20Image/EDU.png)
+
+![E-Learning-Platform](Demo%20Image/edul.png)
